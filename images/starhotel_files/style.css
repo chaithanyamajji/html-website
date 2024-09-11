@@ -1,0 +1,193 @@
+#header{
+    color: black;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    display: flex;
+}
+#header h1{
+    color: green;
+}
+#home{
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+#home div button{
+    padding: 10px 15px;
+    background-color:green;
+    color:white;
+    border-radius: 5px;
+    border-style: none;
+}
+#home div button:hover{
+    background-color: black;
+}
+#page{
+    background-color:green;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0px;
+}
+#subpage{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#service{
+    color: black;
+    background-color: white;
+    display: flex;
+    gap: 10%;
+    padding-top: 50px;
+    padding-left: 60px;
+}
+#gallery{
+    color: white;
+    background-color: green;
+    padding:40px 20px ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#galimg{
+    background-color: green;
+    padding-left: 40px;
+    padding-bottom: 60px;
+}
+
+#blog{
+    justify-content: center;
+    color: black;
+    padding: 50px;
+    text-align: center;
+}
+#sublog{
+    display: flex;
+    justify-content:space-around;
+    
+}
+#sublog  div button:hover{
+    background-color: green;
+    color: white;
+    border-style: none;
+}
+#sublog div button{
+    background-color: white;
+    color:green ;
+    border-radius: 5px;
+    padding:8px 20px;
+    border-color: green;
+}
+#shop{
+    color: black;
+    background-color: whitesmoke;
+    padding: 40px;
+    gap: 10%;
+}
+#shop h1{
+    justify-content: center;
+    text-align: center;
+}
+#subshop{
+    justify-content: space-around ;
+    display: flex;
+    font-size: 0.8rem;
+}
+#subshop h2{
+    color: green;
+}
+#subshop h2:hover{
+    color: black;
+}
+#feature {
+    color: black;
+    background-color: whitesmoke;
+    padding: 40px;
+}
+#feature h1{
+    justify-content: center;
+    text-align: center;
+} 
+#sub{
+    color: #000;
+    background-color:rgb(180, 178, 178) ;
+    padding: 15px 20px;
+    justify-content: center;
+    text-align: center;
+}
+#subfeature{
+    display: flex;
+    gap: 5%;
+    width: 100%;
+   
+}
+#contactsection{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+    background-color: black;
+}
+#subcontacts{
+    display: flex;
+    gap: 10%;
+}
+#saving{
+    color: white;
+    background-color: rgb(53, 237, 53);
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+}
+#saving button{
+    color: black;
+    background-color: white;
+    border-radius: 6px;
+    border-style: none;
+    padding: 12px 27px;
+}
+#saving button:hover{
+    color:white ;
+    background-color: black;
+}
+#partners{
+    color: balck;
+    background-color: white;
+    padding: 40px 40px;
+}
+#partners h1{
+    justify-content: center;
+    text-align: center;
+}
+#final{
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 30px;
+}
+#final h1{
+    color: green;
+}
+#last{
+    color: white;
+    background-color: grey;
+    display: flex;
+    padding: 20px;
+}
+#last1{
+    color: rgb(36, 222, 36);
+}
